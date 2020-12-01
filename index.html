@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cargando...</title>
+    <link rel="shortcut icon" type="image/x-icon" href="img/icon.png" />
+    <style type="text/css">
+    	body {
+   		background-color: #85e9bf }
+	</style>
+</head>
+<body>
+	<center>
+		<img src="img/cargando.gif" height="500" width="500">
+		<H1><i>Espere un momento conectando al servidor</i></H1>
+	</center>
+	<script type="text/javascript">
+		function link(){
+		window.location = "conectar/index.html";
+		}
+		window.onload = function(){
+		setTimeout('link()',3000);
+		}
+	</script>
+</body>
+</html>

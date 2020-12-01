@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Signika:wght@700&display=swap");
+.cabecera {
+    background-color: #85e9bf;
+    min-height: 100px;
+    text-align: center;
+    opacity: 0.6;
+}
+.f1 {
+    align-items: center;
+    justify-content: center;
+}
+
+.c1 {
+    background-color: #9AF6F2;
+    font-size: 45px;
+    font-family: 'Signika', sans-serif;
+}
+
+.d1 {
+    background-color: white;
+    font-family: 'Signika', sans-serif;
+    font-size: 35px;
+}
+
+.card {
+    background-color: #caf1f1c9;
+    font-family: 'Signika', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    border: ivory;
+}
+
+.t9 {
+    background-color: #85e9bf;
+    opacity: 0.6;
+    font-family: 'Signika', sans-serif;
+    font-size: 20px;
+}
+
+.t1 {
+    font-family: 'Signika', sans-serif;
+    font-size: 35px;
+    font-size: 25px;
+}
+
+.form-row {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-md-6 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.c2 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Signika', sans-serif;
+}
+.c2-1 {
+    text-align: right;
+    font-size: 45px;
+    font-family: 'Signika', sans-serif;
+}
+
+.c3 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Signika', sans-serif;
+    background-color: rgb(119, 233, 243);
+}
+
+.mi {
+    text-align: center;
+    font-size: 5px;
+    font-family: 'Signika', sans-serif;
+}
+
+.barra-lateral {
+    padding-top: 40px;
+    float: left;
+    width: 30%;
+}
+
+.barra-lateral2 {
+    padding-top: 40px;
+    float: right;
+    width: 30%;
+}
+
+.sub {
+    background-color: #85e9e1;
+    font-size: 25px;
+    font-family: "amaranth";
+}
+
+.ar {
+    background-color: #d1f1f5;
+    font-size: 15px;
+    font-family: "amaranth"
+}
+
+.but {
+    background-color: rgb(75, 177, 236);
+    border-radius: 18px 15px 15px 15px;
+    -moz-border-radius: 18px 15px 15px 15px;
+    -webkit-border-radius: 18px 15px 15px 15px;
+    border: 0px solid #000000;
+    text-align: center;
+}
+
+.mx {
+    font-size: 15px;
+    font-family: "amaranth";
+}
+
+.b3 {
+    background-color: #d1f1f5;
+    font-size: 25px;
+    font-family: "amaranth";
+    text-align: center;
+}
+
+.imgzoom:hover {
+    transform: scale(1.1);
+}
+.body{
+    background-color: #85e9cf;
+}
+h3{
+    text-align: left;
+}
